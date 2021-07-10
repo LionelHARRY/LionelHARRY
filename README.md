@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LionelHARRY
-- 👀 I’m interested in coding stuff...
+- 👀 I’m interested in coding and stuff...
 
 
 <!---
